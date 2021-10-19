@@ -1,0 +1,33 @@
+{
+  "name": "Prodax Extended",
+  "timestamp": "2021-10-15T10:47:51.319Z",
+  "version": {
+    "major": 2,
+    "minor": 16,
+    "patch": 30
+  },
+  "logoURI": "https://prodax.io/logo.png",
+  "keywords": [
+    "pancakeswap",
+    "extended"
+  ],
+  "tokens": [
+    {
+      "name": "BUSD",
+      "symbol": "BUSD",
+      "address": "0x9AEA149e03E649C958687aFdeF5719B6a3F936fD",
+      "chainId": 24,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png"
+    },
+    {
+      "name": "USDT",
+      "symbol": "USDT",
+      "address": "0x515B7F7a01fEDE152dFe59fa9308Dd516b1588B2",
+      "chainId": 24,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+    }
+  ]
+}
+
