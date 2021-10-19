@@ -1,0 +1,32 @@
+{
+  "name": "DEX Top 100",
+  "timestamp": "2021-09-17T08:04:09.127Z",
+  "version": {
+    "major": 2,
+    "minor": 16,
+    "patch": 9
+  },
+  "logoURI": "https://prodax.io/logo.png",
+  "keywords": [
+    "DEX",
+    "top 100"
+  ],
+  "tokens": [
+    {
+      "name": "Berry",
+      "symbol": "BRY",
+      "address": "0x8647e712908B9d05F3Ede519a1C7710fF49C3278",
+      "chainId": 24,
+      "decimals": 18,
+      "logoURI": "https://images.prodax.io/bry.png"
+    },
+    {
+      "name": "Glitch",
+      "symbol": "GLT",
+      "address": "0xbc2B13d84B4BA5bEa34353c91d0879d6e4DFa33A",
+      "chainId": 24,
+      "decimals": 18,
+      "logoURI": "https://images.prodax.io/bry.png"
+    }
+  ]
+}
